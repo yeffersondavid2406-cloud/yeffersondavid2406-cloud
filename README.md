@@ -64,6 +64,6 @@ Seguir creciendo como desarrollador Full Stack y combinar mis conocimientos de p
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [Mi LinkedIn](www.linkedin.com/in/yefferson-guette-547b42325)
+- 💼 LinkedIn:(www.linkedin.com/in/yefferson-guette-547b42325)
 - 🌐 Portafolio: [Mi Portafolio](#)
 - 💻 GitHub: [@yeffersondavid2406-cloud](https://github.com/yeffersondavid2406-cloud)
